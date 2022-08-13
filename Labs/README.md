@@ -1,2 +1,2 @@
 ## Лабораторные работы
--[Бегущие огни на гирлянде](/Labs/labs-1-runninu-light.md)
+- [Бегущие огни на гирлянде](/Labs/labs-1-runnung-light.md)
